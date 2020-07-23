@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/qforest/static/css/main.5f361e03.chunk.css",
+    "main.js": "/qforest/static/js/main.3b463536.chunk.js",
+    "main.js.map": "/qforest/static/js/main.3b463536.chunk.js.map",
+    "runtime-main.js": "/qforest/static/js/runtime-main.5014f9be.js",
+    "runtime-main.js.map": "/qforest/static/js/runtime-main.5014f9be.js.map",
+    "static/js/2.d89cba6d.chunk.js": "/qforest/static/js/2.d89cba6d.chunk.js",
+    "static/js/2.d89cba6d.chunk.js.map": "/qforest/static/js/2.d89cba6d.chunk.js.map",
+    "index.html": "/qforest/index.html",
+    "precache-manifest.249660dd6b0fc1eba89f595c859ddf8e.js": "/qforest/precache-manifest.249660dd6b0fc1eba89f595c859ddf8e.js",
+    "service-worker.js": "/qforest/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/qforest/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d89cba6d.chunk.js.LICENSE.txt": "/qforest/static/js/2.d89cba6d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/qforest/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5014f9be.js",
+    "static/js/2.d89cba6d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3b463536.chunk.js"
+  ]
+}
